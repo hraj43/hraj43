@@ -7,7 +7,7 @@
 
 - PrimePalace, a dynamic MERN stack real estate platform, delivers an intuitive interface for seamless property exploration. Users benefit from interactive listings,personalized profiles, and neighborhood insights, creating a comprehensive real estate experience. [primePalace](https://github.com/hraj43/primePalace)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-teal-seven-15.vercel.app](https://portfolio-teal-seven-15.vercel.app)
+- 👨‍💻 All of my projects are available at [https://harsh-devprofile.netlify.app/](https://harsh-devprofile.netlify.app/)
 
 - 💬 Ask me about **react,nodejs,nextjs and expressjs**
 
